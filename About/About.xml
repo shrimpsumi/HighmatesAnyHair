@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Highmates Any Hair</name>
+  <author>shrimpsumi</author>
+  <packageId>shrimpsumi.HighmatesAnyHair</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <modVersion>1.0.0</modVersion>
+  <description>lets VRE highmates equip any hair style without getting super angry and demanding a look change!</description>
+  <modDependencies>
+    <li>
+      <packageId>vanillaracesexpanded.highmate</packageId>
+      <displayName>Vanilla Races Expanded - Highmate</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2995385834</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>vanillaracesexpanded.highmate</li>
+  </loadAfter>
+</ModMetaData>
